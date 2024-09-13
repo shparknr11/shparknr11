@@ -4,6 +4,8 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 프론트앤드 개발자 박성호 입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 다양한 웹 기술을 배우고 있는 신입 개발자입니다. </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 구조와 동작 원리를 분석하는 것에 흥미를 가지고 있습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
